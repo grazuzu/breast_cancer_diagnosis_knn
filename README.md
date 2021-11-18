@@ -7,4 +7,4 @@ o algoritmo K-Nearest Neighbor para realizar a classificação do dataset Breast
 </br>
 O código desenvolvido, o treinamento do knn e a análise dos dados são encontrados no [**Arquivo main.ipynb**](https://github.com/grazuzu/breast_cancer_diagnosis_knn/blob/main/wdbc.ipynb)
 </br>
-O código deste trabalho foi feito baseado no código desenvolvido para a classificação de cogumelos (The Infected Mushroom case). O código original pode ser encontrado em [**Algoritmo KNN para classificação**](https://inferir.com.br/artigos/algoritimo-knn-para-classificacao/)
+O código deste trabalho foi feito baseado no código desenvolvido para a classificação de cogumelos (The Infected Mushroom case). O código original pode ser encontrado em [Algoritmo KNN para classificação](https://inferir.com.br/artigos/algoritimo-knn-para-classificacao/)
